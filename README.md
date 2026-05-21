@@ -17,8 +17,7 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 4.Find the accuracy score
 
 ## Program:
-```
-/*
+
 ```
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 Developed by: pragadeesh m
@@ -78,9 +77,8 @@ plt.xlabel('Level')
 plt.ylabel('Salary')
 plt.legend()
 plt.show()
- ```
-*/
 ```
+
 
 ## Output:
 <img width="1252" height="240" alt="image" src="https://github.com/user-attachments/assets/afed63dc-62b7-4999-90f6-d7ba3212544e" />
